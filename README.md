@@ -1,2 +1,0 @@
-# wiki
-personal tiddlywiki
